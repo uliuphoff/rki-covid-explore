@@ -18,3 +18,11 @@ data is saved on disc in the following way
    subdir landkreise: contains the geodata of the landkreise and bundeslaender
    All plots are witten to the current directory
    
+Since all the data used comes from the RKI, do not forget to reference the data source:
+"Datenquellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
+
+See https://npgeo-corona-npgeo-de.hub.arcgis.com for details of the datasets used.
+
+
+Die Daten sind die „Fallzahlen in Deutschland“ des Robert Koch-Institut (RKI) und stehen unter der
+Open Data Datenlizenz Deutschland – https://www.govdata.de/dl-de/by-2-0 – Version 2.0 zur Verfügung. 
