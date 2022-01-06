@@ -13,10 +13,12 @@ or lineplots of the top Landkreise with increasing incidence
 Last baut not list it plots the map of germany colored by incidence
 Another option is a plot of the map with the 7 Day change in incidence
 
+All the plots can also be aggregated into one report pdf file.
+
 data is saved on disc in the following way
    subdir data: Condains the covid19 csv files
    subdir landkreise: contains the geodata of the landkreise and bundeslaender
-   All plots are witten to the current directory
+   All plots and the report pdf file are witten to the current directory
    
 Since all the data used comes from the RKI, do not forget to reference the data source:
 "Datenquellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
