@@ -6,3 +6,4 @@
 *.prj
 *.shp
 *.shx
+.ipynb_checkpoints/rki_covid_explore_2-checkpoint.ipynb
