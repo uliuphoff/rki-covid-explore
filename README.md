@@ -28,4 +28,5 @@ See https://npgeo-corona-npgeo-de.hub.arcgis.com for details of the datasets use
 
 Die Daten sind die „Fallzahlen in Deutschland“ des Robert Koch-Institut (RKI) und stehen unter der
 Open Data Datenlizenz Deutschland – https://www.govdata.de/dl-de/by-2-0 – Version 2.0 zur Verfügung. 
+
 Python tabulate (MIT-license) https://github.com/astanin/python-tabulate
