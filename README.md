@@ -19,7 +19,33 @@ data is saved on disc in the following way
    subdir data: Condains the covid19 csv files
    subdir landkreise: contains the geodata of the landkreise and bundeslaender
    All plots and the report pdf file are witten to the current directory
-   
+
+Output is provided as text
+
+    Überblick am: 23.01.2022
+    Inzidenz    Neue Fälle  Kreis
+    -------     --------  ----------------------------------
+     840.3         63393  Deutschland
+     922.2         14847  Bayern
+    1406.9          2866  SK München
+
+    Top Änderungen gegenüber Vorwoche:
+    Inzidenz    Neue Fälle    Änderung [%]  Kreis
+    -------  ------------  --------------  -----------------------------
+    1601.7           128             211  LK Uckermark
+    1496               0             274  LK Stormarn
+     545.1             0            1296  SK Berlin Marzahn-Hellersdorf
+
+    Top Inzidenzen:
+    Inzidenz    Neue Fälle  Kreis
+    ------  ------------  ----------------------------------
+    1757.4             0  SK Berlin Pankow
+    1763.8           307  SK Berlin Neukölln
+    1782.5           115  SK Berlin Friedrichshain-Kreuzberg
+    
+Various diagrams are also possible:
+![rki-covid-explore_output](https://user-images.githubusercontent.com/95683288/150783435-1b2915de-6fa2-4aee-bc90-70f8f225a53f.jpeg)
+
 Since all the data used comes from the RKI, do not forget to reference the data source:
 "Datenquellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
 
