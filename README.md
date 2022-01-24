@@ -8,18 +8,18 @@ The code connects to RKI ESRI data service to get the Landkreis and Bundesland g
 The code also downloads the latest available covid database from the RKI and saves it as a csv-file.
 
 The code allows lineplots for selected Landkreise/Bundeslaender
-or lineplots of the top Landkreise with increasing incidence
+or lineplots of the top Landkreise with increasing incidence.
 
-Last but not least it plots the map of germany colored by incidence.
-Another option is a plot of the map with the 7 Day change in incidence.
+Last but not least it plots the map of Germany colored by incidence.
+Another option is a plot of the map colored by the 7 day change in incidence.
 
 All the plots can also be aggregated into one report pdf file.
 
-data is saved on disc in the following way:
+Data is saved on disc in the following way:
 
     subdir data: Condains the covid19 csv files
     subdir landkreise: contains the geodata of the landkreise and bundeslaender
-    All plots and the report pdf file are witten to the current directory
+    All plots and the pdf-file with the report are witten to the current directory
 
 Output is provided as text
 
