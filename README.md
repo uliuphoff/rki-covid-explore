@@ -44,7 +44,7 @@ Output is provided as text
     1782.5           115  SK Berlin Friedrichshain-Kreuzberg
     
 Various diagrams are also possible:
-![rki-covid-explore_output](https://user-images.githubusercontent.com/95683288/150783435-1b2915de-6fa2-4aee-bc90-70f8f225a53f.jpeg)
+![rki-covid-explore_output](https://user-images.githubusercontent.com/95683288/150784305-bf98b0d1-f9f6-4928-b5f6-066a4f22f3a3.jpeg)
 
 Since all the data used comes from the RKI, do not forget to reference the data source:
 "Datenquellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0"
